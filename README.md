@@ -1,4 +1,4 @@
-# **🚀 Live-Action Tracker**  
+# **🚀 ProjectInsta Live-Action Tracker**  
 
 **A real-time task tracking web app using Gradio, designed to help employees and managers visualize work progress, report issues, and collaborate efficiently.**  
 
@@ -25,7 +25,7 @@
 ### **Option 1: Run Locally**  
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/live-action-tracker.git
+git clone https://github.com/PSivaMallikarjun/Project-Insta.git
 cd live-action-tracker
 ```
 2️⃣ **Install Dependencies**  
