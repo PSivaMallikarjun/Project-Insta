@@ -84,8 +84,7 @@ This project is **open-source** and free to use under the MIT License.
 
 🚀 **Let's streamline project tracking together!** 🔥
 
-![Screenshot 2025-03-25 001000](https://github.com/user-attachments/assets/00163a3e-b092-4dfc-9f3c-161cf3009d41)
-![Screenshot 2025-03-25 001011](https://github.com/user-attachments/assets/f286a676-2894-4c60-ae9c-de2521d9cc83)
+
 ![Screenshot 2025-03-25 204930](https://github.com/user-attachments/assets/211cc3be-f8b7-4040-a16b-7d585c79a100)
 ![Screenshot 2025-03-25 205108](https://github.com/user-attachments/assets/ca6a6427-e3d9-4330-b0c9-f82c05b6b1ba)
 
